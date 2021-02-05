@@ -1,0 +1,12 @@
+웹서버
+/file6/lgeopen/img/2021/he/promo/01/2801_brandweek_january/
+
+웹URL
+http://open.lge.co.kr/link/2021/he/promo/01/2801_brandweek_january/11st/event_head.html
+http://open.lge.co.kr/link/2021/he/promo/01/2801_brandweek_january/11st/event_body.html
+http://open.lge.co.kr/link/2021/he/promo/01/2801_brandweek_january/11st/event_m_head.html
+http://open.lge.co.kr/link/2021/he/promo/01/2801_brandweek_january/11st/event_m_body.html
+
+원단위
+http://open.lge.co.kr/link/2021/he/promo/01/2801_brandweek_january/11st/_won/20210129.jpg
+http://open.lge.co.kr/link/2021/he/promo/01/2801_brandweek_january/11st/_won/20210129_m.jpg
